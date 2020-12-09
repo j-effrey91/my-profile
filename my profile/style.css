@@ -1,0 +1,104 @@
+
+/*design and font colors*/
+  body {
+	 color: #DC143C		 ; 
+	 font-size: 18px;
+	 font-family: math;
+     background-color: #FFDEAD;
+
+     width: 700px;
+	margin:40px auto;
+       }
+
+  
+img{
+
+}
+
+   h1 { 
+	 font-size:40px;
+	 font-family:math;	
+       }
+ 
+
+    p{ 
+ 	 color: #DC143C ; 
+	 font-size: 18px;
+     }
+
+
+     h2 {
+	   font-size: 25px;
+        }
+
+     h3 {
+       font-size: 25px
+        }
+
+
+
+     h4{font-size:  25px;
+     	width:400px ;
+     margin-left: 50px;
+       }
+
+
+a{ color: #8B0000 ; 
+	;
+ }
+
+a:hover {
+ color: #CD5C5C;
+  }
+
+
+
+
+ /*custom design with class*/
+
+.content: {
+	width: 700px;
+	margin:40px auto;
+	margin-bottom: 10px;
+	background-color: #FFEBCD;	
+	padding: 40px;
+	box-shadow: 0px 10px 30px  #E9967A;
+	border-radius:6px;
+ 
+}
+
+
+.card-white{ 
+	margin-bottom: 10px;
+	background-color: #FFEBCD;	
+	padding: 40px;
+	box-shadow: 0px 10px 30px  #E9967A;
+	border-radius:6px;
+
+}
+
+.reseau{margin-bottom: 10px;
+	background-color: #FFEBCD;	
+	padding: 40px;
+	box-shadow: 0px 10px 30px  #E9967A;
+	border-radius:6px;
+}
+
+.fb{float: left;
+ }
+
+ .lK{float: right;
+ }
+
+ .ig{float: middle;
+
+ }
+
+
+
+
+
+
+
+
+
